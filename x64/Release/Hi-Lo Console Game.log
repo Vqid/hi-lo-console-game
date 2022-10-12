@@ -1,0 +1,6 @@
+﻿  main.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 128 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Hi-Lo Console Game.vcxproj -> C:\Users\jtbis\source\repos\Hi-Lo Console Game\x64\Release\Hi-Lo Console Game.exe
